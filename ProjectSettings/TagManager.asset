@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zwierze
+  - Jedzenie
+  - Przedmiot
+  - kadr
+  - polaroid
+  - white-canvas
+  - saveState
+  - raycastBlocker
+  - menuProfil
+  - menuPage
+  - aparatButton
+  - cena_p
+  - zdjecia_p
+  - cena_s
+  - zdjecia_s
+  - ZwierzetaGroup
+  - LeanTween
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 33688223
+    locked: 0
+  - name: New Layer2
+    uniqueID: 3332678155
+    locked: 0
+  - name: New Layer3
+    uniqueID: 4162716571
+    locked: 0

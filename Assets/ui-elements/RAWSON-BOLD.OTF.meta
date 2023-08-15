@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 35337d9cd78639d4c886f4725f150ce1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rawson
+  fontNames:
+  - Rawson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92b7c798529787940b817ca000646b8f, type: 3}
+  - {fileID: 12800000, guid: 64000cb8807fea340b4c75d4823fa94b, type: 3}
+  - {fileID: 12800000, guid: 61316bfe722c5364ea06aa3abfac40d8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
